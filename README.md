@@ -19,10 +19,10 @@ A simple Python script to generate QR codes for any URL, such as forms, websites
 
    ```bash
    git clone https://github.com/yourusername/qr-code-generator.git
-   cd qr-code-generator ```
+   cd qr-code-generator
 2. Install the required dependencies:
    ```bash
-   pip install 'qrcode[pil]' ```
+   pip install 'qrcode[pil]'
 
 
    
